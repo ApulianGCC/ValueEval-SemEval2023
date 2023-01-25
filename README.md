@@ -2,7 +2,7 @@
 SemEval 2023. ValueEval: Identification of Human Values behind Arguments
 
 
-In this report we will assess the use of multiple technique to tackle the SemEval23 Human Value Detection challenge. This task consists
+In this repository we will assess the use of multiple technique to tackle the SemEval23 Human Value Detection challenge. This task consists
 of classifying whether or not a given textual argument belongs to a given human value category. This task uses a set of 20 value categories
 compiled from the social science literature. Given the fact that a textual argument could belong to multiple human value categories,
 it is a Multi-Label classification task. 
